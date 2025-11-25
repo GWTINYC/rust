@@ -36,8 +36,6 @@
     f16,
     aarch64_unstable_target_feature,
     bigint_helper_methods,
-    adt_const_params,
-    unchecked_shifts,
     portable_simd
 )]
 #![cfg_attr(test, feature(test, abi_vectorcall, stdarch_internal))]
